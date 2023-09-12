@@ -1,0 +1,14 @@
+<alunos>
+  <aluno>
+     <cod>1</cod>
+     <nome>Joaozinho</nome>
+  </aluno>
+  <aluno>
+     <cod>2</cod>
+     <nome>Mariazinha</nome>
+  </aluno>
+  <aluno>
+     <cod>3</cod>
+     <nome>Carlos da Silva</nome>
+  </aluno>
+</alunos>
